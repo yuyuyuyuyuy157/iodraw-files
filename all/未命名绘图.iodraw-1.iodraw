@@ -10,7 +10,7 @@
         <mxCell id="xa9QXc1DIjZApcfxWAlj-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xa9QXc1DIjZApcfxWAlj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xa9QXc1DIjZApcfxWAlj-2" value="整型len=bin数组长度&lt;div&gt;整型pad=bin需要补齐到4的倍数的添加的长度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
