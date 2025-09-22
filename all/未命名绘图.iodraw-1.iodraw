@@ -13,7 +13,7 @@
         <mxCell id="xa9QXc1DIjZApcfxWAlj-2" value="整型len=bin数组长度&lt;div&gt;整型pad=bin需要补齐到4的倍数的添加的长度&lt;/div&gt;&lt;div&gt;字符串temp[128]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="160" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xa9QXc1DIjZApcfxWAlj-3" value="整型i=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xa9QXc1DIjZApcfxWAlj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xa9QXc1DIjZApcfxWAlj-4" value="i&amp;lt;pad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
