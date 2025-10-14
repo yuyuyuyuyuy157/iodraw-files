@@ -16,6 +16,9 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-1" value="初始化系统&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;调用图形绘制函数&lt;/div&gt;&lt;div&gt;绘制系统主页面&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-3" target="tYMJpoO1iRDioc-mzoR3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-3" value="主菜单选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="240" width="130" height="100" as="geometry" />
         </mxCell>
@@ -68,11 +71,12 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-12" value="调用创建和排序合并同类项函数进行创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="680" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tYMJpoO1iRDioc-mzoR3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-19">
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="115" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="30" y="770" />
+              <mxPoint x="115" y="840" />
+              <mxPoint x="30" y="840" />
               <mxPoint x="30" y="210" />
             </Array>
           </mxGeometry>
