@@ -145,6 +145,10 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="880" />
+              <mxPoint x="571" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-36" value="调用求值函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
