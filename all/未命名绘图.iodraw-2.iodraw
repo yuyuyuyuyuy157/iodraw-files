@@ -54,13 +54,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-11" value="输入多项式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="600" width="70" height="40" as="geometry" />
+          <mxGeometry x="60" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-12" target="tYMJpoO1iRDioc-mzoR3-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-12" value="调用创建和排序合并同类项函数进行创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="680" width="110" height="40" as="geometry" />
+          <mxGeometry x="60" y="680" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-19" value="显示多项式并保存在主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="740" width="110" height="60" as="geometry" />
+          <mxGeometry x="60" y="740" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
