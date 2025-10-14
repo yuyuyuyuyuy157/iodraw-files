@@ -36,7 +36,7 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-11" value="输入多项式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="52.5" y="600" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tYMJpoO1iRDioc-mzoR3-12" value="输入多项式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-12" value="调用创建和排序合并同类项函数进行创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="52.5" y="660" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
