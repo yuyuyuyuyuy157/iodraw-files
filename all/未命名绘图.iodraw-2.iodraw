@@ -52,7 +52,11 @@
           <mxGeometry x="390" y="700" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-9" target="tYMJpoO1iRDioc-mzoR3-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="845" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-9" value="多项式求值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="800" width="120" height="90" as="geometry" />
