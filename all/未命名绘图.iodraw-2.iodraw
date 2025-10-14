@@ -67,6 +67,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-9" target="tYMJpoO1iRDioc-mzoR3-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-9" value="多项式求值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="800" width="120" height="90" as="geometry" />
         </mxCell>
@@ -138,6 +141,11 @@
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-33" value="调用求积函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="880" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-36" value="调用求值函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="990" width="110" height="40" as="geometry" />
