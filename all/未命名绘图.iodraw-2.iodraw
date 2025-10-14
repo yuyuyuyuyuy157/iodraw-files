@@ -19,6 +19,11 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-3" target="tYMJpoO1iRDioc-mzoR3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-465" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tYMJpoO1iRDioc-mzoR3-24">
+          <mxGeometry x="-0.24" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-3" value="主菜单选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="240" width="130" height="100" as="geometry" />
         </mxCell>
@@ -116,6 +121,10 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1150" />
+              <mxPoint x="31" y="1150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-25" value="退出程序" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
