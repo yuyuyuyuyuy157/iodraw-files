@@ -129,11 +129,18 @@
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="1020" as="targetPoint" />
+            <mxPoint x="30" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1050" />
+              <mxPoint x="31" y="1050" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-33" value="调用求积函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="880" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-36" value="调用求积函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="890" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
