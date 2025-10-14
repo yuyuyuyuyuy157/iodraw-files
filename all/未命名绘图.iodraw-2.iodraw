@@ -99,7 +99,11 @@
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="991.3333740234375" as="targetPoint" />
+            <mxPoint x="30" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="910" />
+              <mxPoint x="31" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-27" value="调用求和函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
