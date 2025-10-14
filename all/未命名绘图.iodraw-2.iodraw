@@ -45,6 +45,9 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-7" target="tYMJpoO1iRDioc-mzoR3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-7" target="tYMJpoO1iRDioc-mzoR3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-7" value="多项式求差" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="600" width="120" height="90" as="geometry" />
         </mxCell>
@@ -110,7 +113,7 @@
           <mxGeometry x="165" y="640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-30" value="调用求差函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="770" width="110" height="40" as="geometry" />
+          <mxGeometry x="295" y="770" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
