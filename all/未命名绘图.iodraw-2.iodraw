@@ -18,8 +18,14 @@
             <mxPoint x="115" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-5" target="tYMJpoO1iRDioc-mzoR3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-5" value="创建多项式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-6" target="tYMJpoO1iRDioc-mzoR3-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-6" value="多项式求和" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="510" width="120" height="90" as="geometry" />
