@@ -109,8 +109,8 @@
         <mxCell id="tYMJpoO1iRDioc-mzoR3-27" value="调用求和函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="640" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tYMJpoO1iRDioc-mzoR3-30" value="调用求和函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="650" width="110" height="40" as="geometry" />
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-30" value="调用求差函数&lt;div&gt;显示结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="770" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
