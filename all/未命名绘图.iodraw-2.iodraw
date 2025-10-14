@@ -108,9 +108,14 @@
             <mxPoint x="130" y="1150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="945" />
-              <mxPoint x="780" y="1120" />
-              <mxPoint x="131" y="1120" />
+              <mxPoint x="780" y="1170" />
+              <mxPoint x="131" y="1170" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tYMJpoO1iRDioc-mzoR3-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYMJpoO1iRDioc-mzoR3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYMJpoO1iRDioc-mzoR3-25" value="退出程序" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
