@@ -243,6 +243,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-66" target="JDJmLwErD0eAnQvIizws-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-66" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="380" width="110" height="80" as="geometry" />
         </mxCell>
@@ -416,9 +419,7 @@
             <mxPoint x="1040" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2180" y="2025" />
-              <mxPoint x="2180" y="360" />
-              <mxPoint x="1060" y="360" />
-              <mxPoint x="1060" y="340" />
+              <mxPoint x="2180" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
