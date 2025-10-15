@@ -158,18 +158,26 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-44" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="110" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-45" target="JDJmLwErD0eAnQvIizws-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-45" value="定义一个字符串数组buf（首个元素以0为下标）&lt;div&gt;定义整型变量i=digits-1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-46" target="JDJmLwErD0eAnQvIizws-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-49">
+          <mxGeometry x="-0.3255" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-46" value="i&amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="330" as="targetPoint" />
+            <mxPoint x="220" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="495" />
               <mxPoint x="550" y="340" />
