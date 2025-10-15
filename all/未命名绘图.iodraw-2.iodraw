@@ -229,6 +229,14 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-65" value="定义可变参数列表： args&lt;div&gt;调用va_start函数，输入参数args和字符串format&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="230" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-66" target="JDJmLwErD0eAnQvIizws-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-83">
+          <mxGeometry x="-0.5282" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-66" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="380" width="110" height="80" as="geometry" />
         </mxCell>
@@ -279,7 +287,7 @@
           <mxGeometry x="1730" y="1025" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-81" value="当前format的值等于f" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1220" y="1169" width="110" height="80" as="geometry" />
+          <mxGeometry x="1190" y="1169" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
