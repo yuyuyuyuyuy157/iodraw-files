@@ -81,10 +81,10 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-20" target="JDJmLwErD0eAnQvIizws-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-20" value="创建字符串数组buf（以0为初始下标）&lt;div&gt;创建整型变量i&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JDJmLwErD0eAnQvIizws-20" value="创建字符串数组buf（以0为初始下标）&lt;div&gt;创建整型变量i=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-605" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-25" value="bufdi&amp;nbsp;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JDJmLwErD0eAnQvIizws-25" value="buf数组第i个元素等于num模10-0的ascll码；&lt;div&gt;i++&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
