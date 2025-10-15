@@ -356,7 +356,7 @@
             <mxPoint x="1245" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-129" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-126">
+        <mxCell id="JDJmLwErD0eAnQvIizws-129" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-126">
           <mxGeometry x="-0.8591" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -466,7 +466,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-127" value="format指向下一个值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1181.25" y="2100" width="127.5" height="60" as="geometry" />
+          <mxGeometry x="1181.25" y="2190" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-130" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1550" y="2080" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
