@@ -105,6 +105,14 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-25" value="buf数组第i个元素等于num模10-0的ascll码；&lt;div&gt;num=num除以10取整&lt;br&gt;&lt;div&gt;i++&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="650" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-31" target="JDJmLwErD0eAnQvIizws-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-34" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-33">
+          <mxGeometry x="-0.4915" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-31" value="i不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-605" y="730" width="120" height="80" as="geometry" />
         </mxCell>
