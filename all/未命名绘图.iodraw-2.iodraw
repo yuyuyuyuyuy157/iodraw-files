@@ -426,8 +426,14 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-110" value="&lt;div style=&quot;text-align: justify;&quot;&gt;fracInt = fracPart * multiplier + 0.5);&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;调用printLongLong(intPart);&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;调用 putchar(&#39;.&#39;);&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;调用printFrac(fracInt, precision);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1362.5" y="1970" width="215" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-114" target="JDJmLwErD0eAnQvIizws-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-114" value="调用va_end 表示调用结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="985" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-119" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="985" y="2300" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
