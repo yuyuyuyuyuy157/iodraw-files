@@ -337,7 +337,10 @@
           <mxGeometry x="1560" y="1450" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-94" value="val&amp;lt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1436.25" y="1390" width="80" height="80" as="geometry" />
+          <mxGeometry x="1437.5" y="1680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-95" value="调用putchar输出-&lt;div&gt;val=-val&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1413.75" y="1520" width="127.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
