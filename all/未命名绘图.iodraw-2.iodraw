@@ -471,7 +471,7 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-130" value="当前format的值为其它" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1205" y="2100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JDJmLwErD0eAnQvIizws-131" value="调用putchar函数打印%和format当前的值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1362.5" y="2200" width="117.5" height="60" as="geometry" />
         </mxCell>
       </root>
