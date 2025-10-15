@@ -199,6 +199,14 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-48" value="buf数组第i个元素等于fracint模10-0的ascll码；&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;fracint=fracint除以10取整&lt;/span&gt;&lt;div&gt;&lt;div&gt;i--&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="430" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-54" target="JDJmLwErD0eAnQvIizws-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-60" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-59">
+          <mxGeometry x="-0.3741" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-54" value="i&amp;lt;digits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="600" width="120" height="80" as="geometry" />
         </mxCell>
