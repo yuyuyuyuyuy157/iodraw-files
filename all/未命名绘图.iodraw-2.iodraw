@@ -327,7 +327,7 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-81" value="当前format的值等于f" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="1169" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-91" value="定义一个双精度浮点数val=调用va_arg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JDJmLwErD0eAnQvIizws-91" value="定义一个双精度浮点数val=调用va_arg获取可变参数的值；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1402.5" y="1270" width="347.5" height="200" as="geometry" />
         </mxCell>
       </root>
