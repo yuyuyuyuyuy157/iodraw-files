@@ -83,6 +83,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-19" target="JDJmLwErD0eAnQvIizws-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-19" value="num不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-605" y="580" width="120" height="80" as="geometry" />
         </mxCell>
@@ -115,6 +118,12 @@
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-31" value="i不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-605" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="705" as="targetPoint" />
+            <mxPoint x="-240" y="835" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-32" value="&lt;div&gt;调用putchar函数&lt;/div&gt;输出buf数组第i个元素&lt;div&gt;i--&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="800" width="120" height="60" as="geometry" />
