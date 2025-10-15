@@ -232,11 +232,17 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-66" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="380" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-69" target="JDJmLwErD0eAnQvIizws-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-69" value="当前format的值等于%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="505" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-70" value="format字符串指向下一个值；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-72" value="当前format指向的值等于f" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1215" y="720" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
