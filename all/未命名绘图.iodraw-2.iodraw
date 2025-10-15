@@ -405,8 +405,8 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-109" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1550" y="1760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1405" y="1970" width="120" height="60" as="geometry" />
+        <mxCell id="JDJmLwErD0eAnQvIizws-110" value="&lt;div&gt;long long fracInt = (long long)(fracPart * multiplier + 0.5);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; printLongLong(intPart);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; putchar(&#39;.&#39;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; printFrac(fracInt, precision);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1405" y="1970" width="325" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
