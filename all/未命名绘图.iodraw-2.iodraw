@@ -372,11 +372,19 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-93" value="调用putchar输出-&lt;div&gt;val=-val&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="1450" width="127.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-94" target="JDJmLwErD0eAnQvIizws-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-94" value="i&amp;lt;precision" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="1750" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-95" value="定义64位整型intpart等于val的整数部分&lt;div&gt;定义32浮点数fracpart等于val减去浮点型&lt;/div&gt;&lt;div&gt;定义64位整型multiplier = 1&lt;/div&gt;&lt;div&gt;定义整型i=0；&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1406.25" y="1580" width="127.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-96" value="multiplier = multiplier*10&lt;br&gt;&lt;div&gt;i++&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="1840" width="127.5" height="60" as="geometry" />
