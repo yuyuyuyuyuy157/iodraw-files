@@ -232,8 +232,8 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-66" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="380" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-69" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="390" width="110" height="80" as="geometry" />
+        <mxCell id="JDJmLwErD0eAnQvIizws-69" value="当前format的值等于%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="505" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
