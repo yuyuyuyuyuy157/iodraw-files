@@ -167,6 +167,9 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-48" value="buf数组第i个元素等于num模10-0的ascll码；&lt;div&gt;num=num除以10取整&lt;br&gt;&lt;div&gt;i++&amp;nbsp;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
