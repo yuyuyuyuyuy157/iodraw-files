@@ -468,11 +468,19 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-127" value="format指向下一个值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1181.25" y="2278" width="127.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDJmLwErD0eAnQvIizws-130" target="JDJmLwErD0eAnQvIizws-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-133" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JDJmLwErD0eAnQvIizws-132">
+          <mxGeometry x="-0.4966" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-130" value="当前format的值为其它" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1205" y="2100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDJmLwErD0eAnQvIizws-131" value="调用putchar函数打印%和format当前的值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1362.5" y="2200" width="117.5" height="60" as="geometry" />
+          <mxGeometry x="1411.25" y="2200" width="117.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
