@@ -229,8 +229,8 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-65" value="定义可变参数列表： args&lt;div&gt;调用va_start函数，输入参数args和字符串format&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="230" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JDJmLwErD0eAnQvIizws-66" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="JDJmLwErD0eAnQvIizws-66" value="format的值不为零" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
