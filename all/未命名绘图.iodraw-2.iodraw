@@ -16,6 +16,9 @@
         <mxCell id="JDJmLwErD0eAnQvIizws-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="110" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JDJmLwErD0eAnQvIizws-6" value="判断是否为0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-585" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
