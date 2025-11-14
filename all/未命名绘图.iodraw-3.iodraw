@@ -113,11 +113,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-27" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;strong&gt;用户点击了“打开文件”按钮&lt;/strong&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-28" value="&lt;ul data-pm-slice=&quot;3 3 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;槽: on_openFileButton_clicked()&lt;/code&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp;&lt;code&gt;1. 执行 QFile / QTextStream 读取&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;2.&lt;/font&gt;更新 UI 界面 (setText)&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="995" y="999" width="250" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="999" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
