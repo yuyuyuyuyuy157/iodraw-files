@@ -37,9 +37,14 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-5" target="MmjMXfToREYhBWfP7eZs-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmjMXfToREYhBWfP7eZs-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-13">
+        <mxCell id="MmjMXfToREYhBWfP7eZs-15" value="操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-13">
           <mxGeometry x="-0.4456" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-5" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;strong&gt;&lt;code&gt;4. 启动事件循环 (a.exec())&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;b&gt;用户操作&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
