@@ -82,6 +82,9 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-22" value="用户点击了生成按钮" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="790" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
