@@ -162,6 +162,11 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-35" value="&lt;br&gt;&lt;ul data-pm-slice=&quot;3 3 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;槽: on_manualDecodeButton_clicked()&lt;/code&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp;&lt;code&gt;1. 调用 huffman.h 的 decode() 算法&lt;/code&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;2. 更新 UI 界面 (setText)&lt;/code&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1265" y="1150" width="270" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1890" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-39" value="其它" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1580" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
