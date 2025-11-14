@@ -128,7 +128,7 @@
           <mxGeometry x="1360" y="999" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-35" value="&#xa;&lt;ul data-pm-slice=&quot;3 3 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;槽: on_manualDecodeButton_clicked()&lt;/code&gt;&lt;/strong&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;-&amp;gt;&lt;/code&gt; &lt;code&gt;1. 调用 huffman.h 的 decode() 算法&lt;/code&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;-&amp;gt;&lt;/code&gt; &lt;code&gt;2. 更新 UI 界面 (setText)&lt;/code&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="1090" width="120" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
