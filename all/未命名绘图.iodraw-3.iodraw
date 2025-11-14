@@ -82,8 +82,8 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-22" value="用户点击了生成按钮" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="790" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MmjMXfToREYhBWfP7eZs-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="MmjMXfToREYhBWfP7eZs-23" value="&lt;ul data-pm-slice=&quot;3 3 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;槽: on_generateButton_clicked()&lt;/code&gt;&lt;/strong&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;-&amp;gt;&lt;/code&gt; &lt;code&gt;1. 调用 huffman.h 核心算法&lt;/code&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;code&gt;-&amp;gt;&lt;/code&gt; &lt;code&gt;2. 更新 UI 界面 (setText)&lt;/code&gt; (矩形)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
