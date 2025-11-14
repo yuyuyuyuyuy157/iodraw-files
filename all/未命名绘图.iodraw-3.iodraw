@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="740" />
+              <mxPoint x="850" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,7 +79,7 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-20" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MmjMXfToREYhBWfP7eZs-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MmjMXfToREYhBWfP7eZs-22" value="用户点击了生成按钮" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="790" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
