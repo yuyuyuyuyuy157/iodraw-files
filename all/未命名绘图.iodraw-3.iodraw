@@ -88,6 +88,11 @@
         <mxCell id="MmjMXfToREYhBWfP7eZs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="393.33331298828125" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="1090" />
+              <mxPoint x="400" y="1090" />
+              <mxPoint x="400" y="760" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-23" value="&lt;ul data-pm-slice=&quot;3 3 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;order&amp;quot;:1},&amp;quot;list_item&amp;quot;,{},&amp;quot;bullet_list&amp;quot;,{},&amp;quot;list_item&amp;quot;,{}]&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;槽: on_generateButton_clicked()&lt;/code&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&amp;nbsp;&lt;code&gt;1. 调用 huffman.h 核心算法&lt;/code&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;2. 更新 UI 界面 (setText)&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
