@@ -151,7 +151,7 @@
             <mxPoint x="1622.2222222222222" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MmjMXfToREYhBWfP7eZs-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-38">
+        <mxCell id="MmjMXfToREYhBWfP7eZs-48" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-38">
           <mxGeometry x="-0.2618" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -177,6 +177,11 @@
             <mxPoint x="1890" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-50" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-44">
+          <mxGeometry x="-0.4231" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MmjMXfToREYhBWfP7eZs-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="1500" as="targetPoint" />
@@ -184,6 +189,11 @@
               <mxPoint x="1620" y="1640" />
               <mxPoint x="400" y="1640" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmjMXfToREYhBWfP7eZs-49" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmjMXfToREYhBWfP7eZs-46">
+          <mxGeometry x="-0.9063" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MmjMXfToREYhBWfP7eZs-39" value="其它" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
